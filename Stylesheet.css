@@ -1,0 +1,69 @@
+body {
+    margin: auto;
+    width: 90%;
+    background-color: #000000;
+    padding-top: 30px;
+    padding-bottom: 170px;
+}
+.first-container div{
+    width: 80%;
+    color: #ff0000;
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+.second-container p{
+    color: #ff0000;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 10px;
+    font-size: 15px;
+}
+.second-container div{
+    border: 1px solid #ff0000;
+    padding-left: 5px;
+}
+.Third-container h3 {
+    color: #ff0000;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+.Third-container img{
+    width: 1050px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    border-radius: 4px;
+}
+.Third-container p{
+    color: #EF2B2B;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+.Forth-container p{
+    color: #FF1313;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    margin-left: 25px;
+}
+.Fifth-container p{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 10px;
+    font-size: 10px;
+}
+.Fifth-container div{
+    padding: 5px;
+}
+.Sixth-container img{
+    width: 100px;
+    border-radius: 50px;
+}
+.Sixth-container p{
+    color: #EF2B2B;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+
+
+
+
